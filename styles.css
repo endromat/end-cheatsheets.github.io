@@ -58,3 +58,15 @@ footer a {
     text-decoration: none;
     color: blue;
 }
+
+footer a:visited {
+    color: rgb(77, 0, 125);
+}
+a img {
+    border-radius: 10%;
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
